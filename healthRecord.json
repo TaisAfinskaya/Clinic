@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "d54a45ed-cbfe-4244-8392-6da75dae6faa",
+    "Diagnosis": "asdasd",
+    "Patient": {
+      "Id": "f5371718-5ff2-4c4b-9345-38a8fb9a3558",
+      "Number": "asd",
+      "FirstName": "dasdasdasda",
+      "LastName": "asdasdasd",
+      "Patronimic": "dasdasd",
+      "DateBth": "2019-10-07T01:33:32",
+      "GetFullName": "dasdasdasda - asdasdasd - dasdasd - f5371718-5ff2-4c4b-9345-38a8fb9a3558"
+    },
+    "Doctor": {
+      "Id": "a40b0fff-106d-4955-a056-0341ebfe80d8",
+      "FirstName": "фывыфв",
+      "LastName": "вфыв",
+      "Patronimic": "фыв",
+      "Specialization": "вфывфыв",
+      "Position": "вфывыфвфы",
+      "GetFullName": "фывыфв - вфыв - фыв - a40b0fff-106d-4955-a056-0341ebfe80d8"
+    },
+    "IsAmbulance": true,
+    "IsCanContinueWork": false,
+    "CountDayWithoutWork": 10,
+    "IsDispencary": true,
+    "Notes": "dasdasdasd"
+  },
+  {
+    "Id": "55f78c91-3cc0-4ddf-8a46-9728fa250bb4",
+    "Diagnosis": "кашель",
+    "Patient": {
+      "Id": "473129b0-bc7a-4c8f-a43b-6f35e7d28e61",
+      "Number": "123",
+      "FirstName": "Петр",
+      "LastName": "Петров",
+      "Patronimic": "Петрович",
+      "DateBth": "2000-01-01T16:37:01",
+      "GetFullName": "Петр - Петров - Петрович - 473129b0-bc7a-4c8f-a43b-6f35e7d28e61"
+    },
+    "Doctor": {
+      "Id": "1ee01e5c-8f82-496e-89df-51faf481500c",
+      "FirstName": "Иван",
+      "LastName": "Иванович",
+      "Patronimic": "Иванов",
+      "Specialization": "терапевт",
+      "Position": "врач",
+      "GetFullName": "Иван - Иванович - Иванов - 1ee01e5c-8f82-496e-89df-51faf481500c"
+    },
+    "IsAmbulance": true,
+    "IsCanContinueWork": true,
+    "CountDayWithoutWork": 10,
+    "IsDispencary": true,
+    "Notes": "нет"
+  }
+]
